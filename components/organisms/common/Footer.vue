@@ -133,13 +133,8 @@
             position: absolute;
             left: 30px;
             bottom: 30px;
-<<<<<<< HEAD
             padding: 20px 30px;
             width: 180px;
-=======
-            padding: 40px 45px;
-            width: 300px;
->>>>>>> origin/master
         }
 
         .footer-logo li:first-child {
